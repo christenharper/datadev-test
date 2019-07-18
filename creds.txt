@@ -1,0 +1,30 @@
+------ liquidweb location:
+https://cloudsites.liquidweb.com/website/855246/2190175#website_details
+
+------ datadev admin account:
+https://cloudsites.liquidweb.com/
+u: theco
+s: qHcZa3raVPRvaMeCvasquvur
+
+------ root ftp
+ftp2.ftptoyoursite.com
+u: theco
+s: qHcZa3raVPRvaMeCvasquvur
+root test url: http://datadev.devcatalyst.com.php73-36.phx1-1.websitetestlink.com/
+
+------ database
+hostname: mariadb-010.wc1.phx1.stabletransit.com
+IP: 207.246.241.13
+phpmyadmin: https://mysql.phx1-1.websitesettings.com/?server=mariadb-010.wc1
+db: 855246_chance
+u: 855246_chance
+s: Chancedata_123
+
+----- alt database user
+u: 855246_readonly
+s: Readonlydata_123
+
+------ student ftp
+test url: http://datadev.devcatalyst.com.php73-36.phx1-1.websitetestlink.com/chancetest
+u: chancetest
+s: Chancedata_123
